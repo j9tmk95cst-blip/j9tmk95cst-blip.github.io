@@ -2,4 +2,4 @@
 :HL["/designer-portfolio/_next/static/css/86fb0ed69945ae77.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"fYg2p8G90YthJrpYzEcYd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"mRBC5GnrWF3VVWuDCkmbK","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
